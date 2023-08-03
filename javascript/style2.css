@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+   
+}
+.cel{
+    text-align: center;
+}
+input{
+    border-radius: 3px;
+    margin-top: 10px;
+    border: 2px solid yellowgreen;
+    width: 100px;
+}
+input:hover{
+    border: 1px solid darkturquoise;
+    border-radius: 5px;
+}
+.re{
+    text-align: center;
+
+
+}
+.btn{
+    display:inline;
+    text-align: center;
+    background-color:orchid;
+    border-radius: 3px;
+
+}
+button:hover{
+    background-color: aqua;
+    color: cadetblue;
+}
+h3{
+    text-align: center;
+    color:darkmagenta;
+    margin-top: 20px;
+}
